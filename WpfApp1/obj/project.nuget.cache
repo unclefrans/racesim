@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nJ7FgdJ63zROi23MaCboCJqnLqlWccaFNDwe+sj/osoBx/0lwrw0so13CR/hbBU+thGubvMYua0UTuGgzIghg==",
+  "success": true,
+  "projectFilePath": "F:\\Windesheim\\C#\\source\\repos\\RaceSim\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
